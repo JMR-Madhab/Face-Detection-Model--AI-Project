@@ -23,7 +23,7 @@ A Python-based attendance system using face detection and recognition. The proje
 
 **Setup Instructions**
 1. Clone the repository:
-   git clone https://github.com/yourusername/face-detection-attendance.git
+   git clone https://github.com/JMR-Madhab/face-detection-attendance.git
    cd face-detection-attendance
 
 2. Install dependencies:
